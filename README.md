@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=tengtengW&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="tengtengW" /> 
 </p>
 
-<h1 align="center">Hi there, I'm [你的名字] 👋</h1>
+<h1 align="center">Hi there, I'm Celia 👋</h1>
 <h3 align="center">M.S. Student in Control Science at BJUT | Ph.D. Applicant</h3>
 
 ---
